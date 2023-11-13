@@ -5,7 +5,7 @@
 }
 
 body{
-    margin: 0 100px;
+    margin: 0 120px;
 }
 
 
@@ -37,5 +37,29 @@ thead{
     background-color: aquamarine;
 }
 
+img{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+section{
+    margin-bottom: 25px;
+    margin-top: 25px;  
+}
+
+table{
+    margin-bottom: 25px;
+    margin-top: 25px;   
+}
+
+footer{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    color: grey; 
+}
 
 
+ul{
+    margin-bottom: 25px;
+    margin-top: 25px; 
+}
