@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+table{
+width: 80%;
+}
+
+thead{
+    background-color: lightskyblue;
+    color: white;
+}
+
+.colorato{
+    background-color: aquamarine;
+}
