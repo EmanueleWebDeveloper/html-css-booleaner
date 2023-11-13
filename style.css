@@ -1,13 +1,12 @@
 *{
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-    text-align: left;
-    max-width: 90%;
-    margin: auto;
-    
 }
 
-
+body{
+    margin: 0 100px;
+}
 
 .evidenziato {
     background-color: yellow; 
@@ -26,7 +25,5 @@ thead{
     background-color: aquamarine;
 }
 
-img{
-width: 100px;
-height: 100px;
-}
+
+
